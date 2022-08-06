@@ -1,0 +1,12 @@
+Исходная цепочка: acbcaabab
+(A, acbcaabab)
+(B, cbcaabab)
+(B, bcaabab)
+(B, caabab)
+(B, aabab)
+(C, abab)
+(D, bab)
+(E, ab)
+(F, b)
+(G, lambda)
+Текущее состояние - конечно. Цепочка валидна

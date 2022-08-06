@@ -1,0 +1,12 @@
+Исходная цепочка: aaaaaaaaa
+(A, aaaaaaaaa)
+(B, aaaaaaaa)
+(C, aaaaaaa)
+(D, aaaaaa)
+(E, aaaaa)
+(F, aaaa)
+(G, aaa)
+(E, aa)
+(F, a)
+(G, lambda)
+Текущее состояние - конечно. Цепочка валидна

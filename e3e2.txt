@@ -1,0 +1,12 @@
+Исходная цепочка: aabccbaba
+(A, aabccbaba)
+(B, abccbaba)
+(C, bccbaba)
+(C, ccbaba)
+(C, cbaba)
+(C, baba)
+(C, aba)
+(D, ba)
+(E, a)
+(F, lambda)
+Текущее состояние - не конечно. Цепочку построить с помощью данного ДКА невозможно.

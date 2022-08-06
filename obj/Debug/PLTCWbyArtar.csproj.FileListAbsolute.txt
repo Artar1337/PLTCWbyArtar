@@ -1,0 +1,12 @@
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\bin\Debug\PLTCWbyArtar.exe.config
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\bin\Debug\PLTCWbyArtar.exe
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\bin\Debug\PLTCWbyArtar.pdb
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.csprojAssemblyReference.cache
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.Form1.resources
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.Properties.Resources.resources
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.csproj.GenerateResource.cache
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.exe
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.pdb
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.Form2.resources
+D:\DOCUMENTS\University\7\ProgrammingLanguagesTheory\PLTCWbyArtar\obj\Debug\PLTCWbyArtar.Form3.resources
